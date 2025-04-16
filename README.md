@@ -3,3 +3,5 @@
   <br />
 </p>
 <h1 align="center">Old Source for Orbit</h1>
+
+## Database can be found by clicking [here]([https://github.com](https://raw.githubusercontent.com/OrbitChat/old/refs/heads/main/db.sql))
